@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: nasirnjs/dia:0.0.0
+          image: saifulislam88/dia:0.0.0
           ports:
             - containerPort: 80
 ---
