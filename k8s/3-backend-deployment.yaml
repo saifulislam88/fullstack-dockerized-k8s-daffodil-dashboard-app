@@ -44,7 +44,7 @@ spec:
               name: backend-secret
               key: DB_PASS
         - name: MONGODB_URI
-          value: "mongodb://mongodb-svc:27017/mydatabase"
+          value: "mongodb://mongodb-svc:27017/diastudent"
 ---
 apiVersion: v1
 kind: Service
