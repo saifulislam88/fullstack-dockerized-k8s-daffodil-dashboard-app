@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: backend
-        image: nasirnjs/diabe:0.0.0
+        image: saifulislam88/diabe:0.0.0
         ports:
         - containerPort: 5000
         env:
